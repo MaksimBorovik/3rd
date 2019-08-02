@@ -134,9 +134,17 @@
 }
 
 .site-search {
-  margin-bottom: $gap * 3;
+  margin-bottom: $gap * 2;
 }
 
 .user-login {
+  margin-bottom: $gap * 2;
+}
+
+.main .site-search {
+  margin-bottom: $gap * 3;
+}
+
+.main .user-login {
   margin-bottom: $gap * 4;
 }
