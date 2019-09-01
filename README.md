@@ -1,1 +1,2 @@
-# Created on Bootstrap 3
+**Check out the result on page:**
+https://maksimborovik.github.io/kinozal-template-project/
