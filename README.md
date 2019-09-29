@@ -1,2 +1,2 @@
 **Check out the result on page:**
-https://maksimborovik.github.io/kinozal-template-project/
+https://mirrorimage7.github.io/kinozal-template-project/
